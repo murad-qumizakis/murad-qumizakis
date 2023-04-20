@@ -4,9 +4,7 @@
 	
 ## <picture><img src = "" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width = 250px 
-	       style="border-radius: 50%;"
-	       </picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width = 250px </picture>
 
 <br>
 
@@ -50,7 +48,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b> Currently Learning</b>
+## <img src="" width ="40"><b> Currently Learning</b>
 
 
 <br>
