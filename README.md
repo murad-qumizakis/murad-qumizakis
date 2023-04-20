@@ -20,7 +20,7 @@
 	 <img src="" width ="25">
 -->
 
-##<b> My Skills</b>
+<b> My Skills</b>
 <br>
 
 <p align="center">
