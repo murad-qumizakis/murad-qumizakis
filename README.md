@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Murad Qumizakis. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 	
-## <picture><img src = "" width = 50px></picture> **About me**
+##  **About me**
 
 <picture> <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width = 250px </picture>
 
@@ -16,9 +16,11 @@
 	
 <br>
 <br>
+<!--
+	 <img src="" width ="25">
+-->
 
-
-## <img src="" width ="25"><b> My Skills</b>
+##<b> My Skills</b>
 <br>
 
 <p align="center">
@@ -63,6 +65,7 @@
 </p>	
 
 -----
+
 
 
 
