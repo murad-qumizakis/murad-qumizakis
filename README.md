@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Murad Qumizakis. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 	
-## <picture><img src = "https://static.vecteezy.com/system/resources/thumbnails/011/153/359/small/3d-website-developer-working-on-laptop-illustration-png.png" width = 50px></picture> **About me**
+## <picture><img src = "[https://static.vecteezy.com/system/resources/thumbnails/011/153/359/small/3d-website-developer-working-on-laptop-illustration-png.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fprogrammer%2F&psig=AOvVaw09E2eoLucLW7l-rk6cJ6T1&ust=1682045107984000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCb-PC8t_4CFQAAAAAdAAAAABAW)" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width = 250px></picture>
 
