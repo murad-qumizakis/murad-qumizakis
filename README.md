@@ -13,6 +13,9 @@
 - 🌱 Always seeking to learn and improve
 - 📱 Proficient in developing responsive and mobile-first web applications
 - 💻 Visit [My Site](https://portfolio-rosy-eight-17.vercel.app/)
+	
+<br>
+<br>
 
 
 ## <img src="" width ="25"><b> My Skills</b>
