@@ -4,6 +4,7 @@
 	
 ##  **About me**
 
+
 <picture> <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width = 250px </picture>
 
 <br>
@@ -20,7 +21,7 @@
 	 <img src="" width ="25">
 -->
 
-<b> My Skills</b>
+##  **Skills**
 <br>
 
 <p align="center">
@@ -53,7 +54,7 @@
 
 <br>
 
-## <img src="" width ="40"><b> Currently Learning</b>
+##  **Currently Learning...**
 
 
 <br>
