@@ -50,7 +50,7 @@
 </p>
 
 
-##  **Currently Learning...**
+##  **Currently learning...**
 
 
 <br>
