@@ -16,7 +16,6 @@
 - 💻 Visit [My Site](https://portfolio-rosy-eight-17.vercel.app/)
 	
 <br>
-<br>
 <!--
 	 <img src="" width ="25">
 -->
