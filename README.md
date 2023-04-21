@@ -12,6 +12,7 @@
 - 🤝 Collaborative team player
 - 🌱 Always seeking to learn and improve
 - 📱 Proficient in developing responsive and mobile-first web applications
+- 🎵 Passionate about exploring new sounds and genres
 - 💻 Visit [My Site](https://portfolio-rosy-eight-17.vercel.app/)
 	
 <br>
