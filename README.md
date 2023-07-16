@@ -12,7 +12,7 @@
 - 🤝 Collaborative team player
 - 🌱 Always seeking to learn and improve
 - 📱 Proficient in developing responsive and mobile-first web applications
-- 💻 Visit [My Portfolio](https://portfolio-rosy-eight-17.vercel.app/)
+- 💻 Visit [My Portfolio](https://www.muradq.com/)
 	
 <br>
 <!--
